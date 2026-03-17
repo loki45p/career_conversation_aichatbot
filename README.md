@@ -1,2 +1,6 @@
-# career_conversation_aichatbot
-AI chatbot for career conversation - Alter Ego
+---
+title: career_conversation
+app_file: app.py
+sdk: gradio
+sdk_version: 5.49.1
+---
