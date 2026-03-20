@@ -145,7 +145,7 @@ hf auth whoami
 ---
  
 ### Step 6 — Deploy
-From the `1_foundations` folder, run:
+run:
 ```bash
 uv run gradio deploy
 ```
