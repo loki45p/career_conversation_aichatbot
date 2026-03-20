@@ -182,7 +182,7 @@ If something goes wrong with secrets or you need to update them later:
  
 ## ♻️ Redeploying
 If you need to completely redeploy from scratch:
-1. Delete the `README.md` that was created in the `1_foundations` folder by the previous deploy
+1. Delete the `README.md` that was created by the previous deploy
 2. Run `uv run gradio deploy` again
 3. It will ask you all the setup questions fresh
  
@@ -193,7 +193,7 @@ If you need to completely redeploy from scratch:
 2. Avatar → Profile → click your Space
 3. Click the **Settings wheel** (top right)
 4. Scroll to the **Delete** section at the bottom
-5. Also delete the `README.md` created in the `1_foundations` folder
+5. Also delete the `README.md`
  
 ---
  
